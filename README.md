@@ -1,7 +1,6 @@
-# Autonomous Model Racecar Platform
+# Autonomous Embedded Model Racecar
 
-This repository contains a complete embedded and software stack for an autonomous model racecar.  
-The system combines low level microcontroller code, real time sensor integration, LiDAR based perception, a path planning and control core on a Raspberry Pi, and a desktop user interface for manual and semi autonomous operation.
+This repository contains a complete embedded and software stack for an autonomous model racecar. The system combines low level microcontroller code, real time sensor integration, LiDAR based perception, a path planning and control core on a Raspberry Pi, and a desktop user interface for manual and semi autonomous operation.
 
 ## Skills Demonstrated
 
@@ -138,3 +137,4 @@ From a portfolio perspective, this project shows the ability to:
 - Integrate third party hardware and SDKs into a coherent architecture
 - Communicate clearly through documentation, specifications, and structured project planning
 - Collaborate in a multi person engineering project with well defined roles and responsibilities
+
